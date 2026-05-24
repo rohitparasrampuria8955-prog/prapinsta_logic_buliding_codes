@@ -22,3 +22,5 @@ if result1 == result2:
     print("its a Friendly pair")
 else:
     print("not a Friendly pair")
+
+
